@@ -2,7 +2,7 @@
 
 # Hey, I'm Ryan
 
-A 25 year old web developer based in Bolton, UK.
+A 26 year old web developer based in Bolton, UK.
 
 I've a few different projects on the go at the moment including a website for my local Scout Group [1st Eagley Scouts](https://1steagleyscouts.org.uk)
 
